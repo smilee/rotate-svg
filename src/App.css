@@ -1,0 +1,16 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+.App {
+  width: 500px;
+  height: 500px;
+}
+
+svg #selection {
+  transform-box: fill-box;
+  transform-origin: center;
+}
